@@ -1,6 +1,6 @@
 # depslib dependency file v1.0
-1741215870 source:c:\6thang3\main.cpp
-	<iostream>
+1741216548 source:c:\6thang3\main.cpp
 	<SDL.h>
 	<SDL_image.h>
+	<iostream>
 
